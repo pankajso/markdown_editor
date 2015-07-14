@@ -36,3 +36,4 @@ build/
 
 .idea/
 log/
+db/development.sqlite3
